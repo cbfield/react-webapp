@@ -1,0 +1,19 @@
+{
+  "name": "react-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbfield/react-webapp.git"
+  },
+  "author": "Christopher Basketfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbfield/react-webapp/issues"
+  },
+  "homepage": "https://github.com/cbfield/react-webapp#readme"
+}
